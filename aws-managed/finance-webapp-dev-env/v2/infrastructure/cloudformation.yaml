@@ -137,7 +137,7 @@ Resources:
   OtelConfigParameter:
     Type: AWS::SSM::Parameter
     Properties:
-      Name: otel-collector-config-amazon-go
+      Name: otel-collector-config-finance
       Type: String
       DataType: text
       Tier: Advanced
