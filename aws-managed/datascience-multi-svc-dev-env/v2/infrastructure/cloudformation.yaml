@@ -137,7 +137,7 @@ Resources:
   OtelConfigParameter:
     Type: AWS::SSM::Parameter
     Properties:
-      Name: otel-collector-config-ds
+      Name: otel-collector-config
       Type: String
       DataType: text
       Tier: Advanced
