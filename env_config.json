@@ -18,6 +18,10 @@
         "role": "arn:aws:iam::338277334018:role/ExampleGithubRole",
         "region": "us-east-2",
         "state_bucket":"aws-proton-terraform-bucket-338277334018"
+    },
+    "nginx-imnr": {
+    "role": "arn:aws:iam::338277334018:role/ExampleGithubRole",
+    "region": "us-east-2",
+    "state_bucket":"aws-proton-terraform-bucket-338277334018"
     }
-        
 }
