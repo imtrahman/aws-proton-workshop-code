@@ -1,6 +1,6 @@
 {
-  "deploymentId" : "fa3a1b50-aad3-4bd6-b93d-241c54f329ef",
-  "isResourceDeleted" : false,
+  "deploymentId" : "<proton-resource-deleted>",
+  "isResourceDeleted" : true,
   "resourceMetadata" : {
     "arn" : "arn:aws:proton:us-east-2:338277334018:environment/finance-dev",
     "templateArn" : "arn:aws:proton:us-east-2:338277334018:environment-template/fargate-env",
