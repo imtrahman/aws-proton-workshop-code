@@ -1,0 +1,11 @@
+{
+  "deploymentId" : "022bccab-3c3e-49db-8134-221f3f87bff7",
+  "isResourceDeleted" : false,
+  "resourceMetadata" : {
+    "arn" : "arn:aws:proton:us-east-2:338277334018:service/apache/service-instance/frontendapi",
+    "templateArn" : "arn:aws:proton:us-east-2:338277334018:service-template/load-balanced-fargate-svc",
+    "templateMajorVersion" : "1",
+    "templateMinorVersion" : "0",
+    "environmentArn" : "arn:aws:proton:us-east-2:338277334018:environment/finance-dev"
+  }
+}
