@@ -1,0 +1,11 @@
+{
+  "deploymentId" : "4ff91f24-94b2-4e54-b6d8-6f84f54c4156",
+  "isResourceDeleted" : false,
+  "resourceMetadata" : {
+    "arn" : "arn:aws:proton:us-east-2:338277334018:service/nginx-imnr/service-instance/imnrapi",
+    "templateArn" : "arn:aws:proton:us-east-2:338277334018:service-template/load-balanced-fargate-svc",
+    "templateMajorVersion" : "1",
+    "templateMinorVersion" : "0",
+    "environmentArn" : "arn:aws:proton:us-east-2:338277334018:environment/finance-dev"
+  }
+}
