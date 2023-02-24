@@ -1,6 +1,6 @@
 {
-  "deploymentId" : "849be475-2a4a-4078-b4b5-f0d0bc0c5c51",
-  "isResourceDeleted" : false,
+  "deploymentId" : "<proton-resource-deleted>",
+  "isResourceDeleted" : true,
   "resourceMetadata" : {
     "arn" : "arn:aws:proton:us-east-2:338277334018:environment/sample-vpc-environment-template",
     "templateArn" : "arn:aws:proton:us-east-2:338277334018:environment-template/sample-vpc-environment-template",
