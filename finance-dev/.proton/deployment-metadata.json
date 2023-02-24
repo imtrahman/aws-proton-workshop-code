@@ -1,0 +1,10 @@
+{
+  "deploymentId" : "e333bc30-187a-4ec0-b7c1-4fdd70c57d25",
+  "isResourceDeleted" : false,
+  "resourceMetadata" : {
+    "arn" : "arn:aws:proton:us-east-2:338277334018:environment/finance-dev",
+    "templateArn" : "arn:aws:proton:us-east-2:338277334018:environment-template/fargate-env",
+    "templateMajorVersion" : "1",
+    "templateMinorVersion" : "0"
+  }
+}
