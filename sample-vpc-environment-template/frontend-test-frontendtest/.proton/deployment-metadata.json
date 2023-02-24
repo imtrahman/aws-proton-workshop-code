@@ -1,0 +1,11 @@
+{
+  "deploymentId" : "e3836f74-6a3b-4653-a8df-cb1813bc4d35",
+  "isResourceDeleted" : false,
+  "resourceMetadata" : {
+    "arn" : "arn:aws:proton:us-east-2:338277334018:service/frontend-test/service-instance/frontendtest",
+    "templateArn" : "arn:aws:proton:us-east-2:338277334018:service-template/sample-lambda-function-template",
+    "templateMajorVersion" : "1",
+    "templateMinorVersion" : "0",
+    "environmentArn" : "arn:aws:proton:us-east-2:338277334018:environment/sample-vpc-environment-template"
+  }
+}
